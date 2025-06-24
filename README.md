@@ -2,7 +2,7 @@
 
 This is a real time script that estimates a users gaze direction given the Aria eye tracking camera feed and maps it to the Aria RGB camera feed. This script was written to help with R&D research at BMW.
 
-# Installation and Usage
+## Installation and Usage
 
 ## Running the script
 
