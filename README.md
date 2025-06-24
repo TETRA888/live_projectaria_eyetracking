@@ -8,4 +8,10 @@ This is a real time script that estimates a users gaze direction given the Aria 
 
 ## Code snippets and tips
 
+## License
 
+The model is licensed under the [Apache 2.0 license](LICENSE).
+
+## Contributing
+
+See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
